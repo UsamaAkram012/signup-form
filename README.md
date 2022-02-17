@@ -1,5 +1,5 @@
 # signup-form
-This is animated login and signup form build in HTML, CSS and Bootstrap.
+There are two animated login and signup forms build in HTML, CSS and Bootstrap.
 - Downlaod HTML and CSS files to your machine
 - Place both files on same location
 - Double click the index.html file
